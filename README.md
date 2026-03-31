@@ -39,6 +39,7 @@ chmod +x script2.sh
 chmod +x script3.sh
 chmod +x script4.sh
 chmod +x script5.sh
+```
 Step 2: Run Scripts
 ./script1.sh
 ./script2.sh
