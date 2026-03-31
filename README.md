@@ -40,24 +40,28 @@ chmod +x script3.sh
 chmod +x script4.sh
 chmod +x script5.sh
 ```
-Step 2: Run Scripts
+### Step 2: Run Scripts
+```bash
 ./script1.sh
 ./script2.sh
 ./script3.sh
 ./script4.sh /var/log/syslog error
 ./script5.sh
-Requirements
+```
+Requirements:
 Ubuntu (WSL) or Linux Environment
 Bash Shell
 Git installed
-Output
+
+Output:
 Scripts display output directly in the terminal
 Script 5 generates a text file containing the manifesto
-Learning Outcomes
+
+Learning Outcomes:
 Understanding of open-source software concepts
 Hands-on experience with Linux commands
 Knowledge of shell scripting (loops, conditions, variables)
 Understanding of Git and its ecosystem
-Conclusion
 
+### Conclusion
 This project provided a comprehensive understanding of open-source software through both theoretical analysis and practical implementation. Git was studied in detail, and shell scripting skills were developed. The project highlights the importance of open-source tools in modern software development.
